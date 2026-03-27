@@ -407,9 +407,9 @@ footer {
 }
 
 @media (max-width: 768px) {
+
     .contact {
         flex-direction: column;
-        background: #ffffff;
     }
 
     .contact-left {
@@ -421,6 +421,14 @@ footer {
     .contact-left h1 {
         font-size: 2.5em;
         text-align: center;
+    }
+
+    .bg-left_c {
+        display: none;
+    }
+
+    .bg-right_c {
+        width: 100%;
     }
 
     .bg-left {
