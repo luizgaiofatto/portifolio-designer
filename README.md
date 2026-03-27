@@ -1,4 +1,4 @@
-# Emily Designer
+# Portifólio Designer
 
 Website de portfólio moderno e responsivo desenvolvido para apresentar o trabalho de uma designer de forma elegante, profissional e intuitiva.
 
