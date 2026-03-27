@@ -21,7 +21,10 @@ O layout foi pensado para ser limpo, organizado e totalmente adaptável a difere
 
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+
+## Visite o Website
+https://luizgaiofatto.github.io/portifolio-designer/
 
 ## Autor
 
