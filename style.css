@@ -137,6 +137,7 @@ hr {
     display: flex;
     gap: 16px;
     justify-content: center;
+    border-radius: 5px;
 }
 
 .social-medias i {
